@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/widget-review-react1q/static/css/main.f855e6bc.css",
+    "main.js": "/widget-review-react1q/static/js/main.11d47b3a.js",
+    "index.html": "/widget-review-react1q/index.html",
+    "main.f855e6bc.css.map": "/widget-review-react1q/static/css/main.f855e6bc.css.map",
+    "main.11d47b3a.js.map": "/widget-review-react1q/static/js/main.11d47b3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.11d47b3a.js"
+  ]
+}
